@@ -5,6 +5,13 @@
   font-family: 'Poppins', sans-serif;
 }
 
+body {
+  font-family: system-ui;
+  background: #f6d561;
+  color: white;
+  text-align: center;
+}
+
 .header {
   min-height: 100vh;
   width: 100%;
